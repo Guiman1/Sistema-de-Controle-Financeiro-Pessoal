@@ -24,10 +24,3 @@ body {
 .saldo h1 {
     font-size: 3.5em;
 }
-
-.graficos {
-    display: flex;
-    height: 100%;
-    width: 50%;
-    background-color: red;
-}
